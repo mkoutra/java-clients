@@ -1,0 +1,9 @@
+Public API for testing:
+- https://jsonplaceholder.typicode.com/guide/
+
+Apache HttpClient:
+- https://www.baeldung.com/apache-httpclient-vs-closeablehttpclient
+
+OkHttpClient:
+- https://www.baeldung.com/guide-to-okhttp
+- https://square.github.io/okhttp/
